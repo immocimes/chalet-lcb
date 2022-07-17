@@ -1,6 +1,6 @@
 # Web site source for Le Chalet Les Cimes Blanches
 
-This website is based on https://gohugo.io framework
+This website is built with https://gohugo.io framework
 
 Run the website in dev mode
 ```
