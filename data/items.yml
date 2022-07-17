@@ -1,0 +1,124 @@
+title : "Equipements"
+content:
+style: "style1 medium onload-content-fade-in"
+items:
+  # feature item loop
+  - name : "Chambre 1"
+    content : "1 lit queen"
+    style : "solid style2 major fa-bed"
+
+  # feature item loop
+  - name : "Chambre 2"
+    content : "1 lit double"
+    style : "solid style2 major fa-bed"
+    
+  # feature item loop
+  - name : "Chambre 3"
+    content : "1 lit double, 2 lits simples"
+    style : "solid style2 major fa-bed"
+    
+  # feature item loop
+  - name : "Wifi"
+    content : "Internet haut débit avec WIFI"
+    style : "solid style2 major fa-wifi"
+    
+  # feature item loop
+  - name : "TV"
+    content : | 
+     TV Full HD 120cm (salon), Smart TV 80cm (chambre 3)
+    style : "solid style2 major fa-tv"
+    
+  # feature item loop
+  - name : "Enceinte"
+    content : "Enceinte Bluetooth"
+    style : "style2 major fa-speaker"
+    
+  # feature item loop
+  - name : "Poêle"
+    content : "Poêle de masse Tulikivi"
+    style : "solid style2 major fa-fireplace"
+    
+  # feature item loop
+  - name : "Jacuzzi"
+    content : "Veritable Jacuzzi 6 places"
+    style : "solid style2 major fa-hot-tub"
+    
+  # feature item loop
+  - name : "Station de recharge"
+    content : "Prise pour voiture éléctrique"
+    style : "solid style2 major fa-charging-station"
+
+  # feature item loop
+  - name : "Salle de bain"
+    content : "2 salles de bain avec douches et double vasques"
+    style : "solid style2 major fa-shower"
+    
+  # feature item loop
+  - name : "Toilettes"
+    content : "2 toilettes indépendants"
+    style : "solid style2 major fa-restroom"
+    
+  # feature item loop
+  - name : "Buanderie"
+    content : "Machine à laver, fer et table à repasser"
+    style : "solid style2 major fa-washer"
+    
+  # feature item loop
+  - name : "Réfrigérateur"
+    content : "Grand réfrigérateur avec freezer"
+    style : "style2 major fa-refrigerator"
+
+  # feature item loop
+  - name : "Four"
+    content : "Four programmable avec grill"
+    style : "style2 major fa-oven"
+
+  # feature item loop
+  - name : "Micro ondes"
+    content : "Petit micro ondes"
+    style : "far style2 major fa-microwave"
+
+  # feature item loop
+  - name : "Lave vaisselle"
+    content : "Lave vaisselle 24 couverts"
+    style : "far style2 major fa-dryer"
+
+  # feature item loop
+  - name : "Machine à café"
+    content : "Machine à café Nespresso, Bouilloire, Machine à café filtre"
+    style : "far style2 major fa-coffee"
+
+  # feature item loop
+  - name : "Service"
+    content : "Service complet 12 couverts"
+    style : "far style2 major fa-utensils"
+
+  # feature item loop
+  - name : "Autres appareils"
+    content : "Appareil à Fondue et Raclette 10 personnes"
+    style : "fas style2 major fa-cauldron"
+
+  # feature item loop
+  - name : "BBQ"
+    content : "Barbecue pour charbon de bois"
+    style : "fas style2 major fa-fire-alt"
+
+  # feature item loop
+  - name : "Kit bébé"
+    content : "Lit bébé, chaise haute, baignoire bébé"
+    style : "far style2 major fa-baby"
+
+  # feature item loop
+  - name : "Jeux"
+    content : "Jeux de société, livres pour enfants ..."
+    style : "far style2 major fa-dice"
+
+  # feature item loop
+  - name : "Garage"
+    content : "Grand garage pour véhicule"
+    style : "far style2 major fa-garage"
+
+  # feature item loop
+  - name : "Parking"
+    content : "3 places, 4 places devant la propriété"
+    style : "far style2 major fa-parking"

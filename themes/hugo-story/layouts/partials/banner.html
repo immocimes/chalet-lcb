@@ -1,0 +1,17 @@
+<!-- Banner -->
+<section class="banner {{ .style }}">
+    <div class="content">
+        <div class="align-center">
+            <img src="{{.logo}}" style="width:128px;height:128px;">
+        </div>
+        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button large wide smooth-scroll-middle">{{ .label }}</a></li>
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="Chalet les cimes blanches" />
+    </div>{{end}}
+</section>

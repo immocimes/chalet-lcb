@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.lechalet }}
+	{{ partial "gallery-simple" site.Data.gallery }}
+	{{ partial "gallery" site.Data.gallery2 }}
+	{{ partial "items" site.Data.items }}
+	{{ partial "spotlight" site.Data.activites }}
+	{{ partial "spotlight" site.Data.reserver }}
+	{{ partial "template/footer" . }}
+
+{{ end }}

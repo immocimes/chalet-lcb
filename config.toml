@@ -1,0 +1,30 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Location chalet - Les cimes blanches"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Location - Chalet Les Cimes Blanches - Haute Vosges 88"
+  logo = "images/logo-lcb-grey.png"
+  favicon = true
+
+[Params.social]
+  airbnb = "https://www.airbnb.fr/rooms/643284240513655945"
+  facebook = "https://www.facebook.com/Chalet-Les-cimes-blanches-108544971906237"
+  resa = "https://www.beds24.com/booking2.php?ownerid=69944&propid=162238"
+  instagram = "https://instagram.com/les_cimesblanches/"

@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Les Cimes Blanches"
+subtitle: |
+  Chalet au calme des Hautes Vosges à La Bresse
+content : |
+  Offrez-vous un moment de <strong>détente</strong> dans un <strong>chalet tout confort</strong> et découvrez les Hautes Vosges avec ces nombreuses activités, en hiver comme en été...
+button:
+  label : "Découvrir"
+  link : "#first"
+image : "images/banner-1702.jpg"
+logo : "images/logo-lcb-grey.png"

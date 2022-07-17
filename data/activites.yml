@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "color1 invert style1 orient-left content-align-left image-position-center onload-image-fade-in"
+title : "Activités"
+content: |
+  Bienvenue aux Cimes Blanches, le chalet est situé dans un domaine d’exception. Vous pourrez le découvrir à pied via les nombreux sentiers, à vélo : près de 800km de voies VTT (bikepark) et dans les airs avec de nombreuses activités : saut à l’élastique, parapente, baptême de vol, tyrolienne ...
+  <br><br>
+  En famille, vous pourrez emprunter le télésiège Vologne Express pour accéder facilement à des sentiers adaptés aux enfants, tester la Schlitte Mountain : luge sur rail qui ravira les enfants et les plus grands. Circuler sur les voies vertes vélo ou profiter des baignades au bord de nombreux lacs.
+  <br><br>
+  En hiver, c’est 33 pistes de ski, des sentiers, raquettes…
+  <br><br>
+  Vous l’aurez compris que vous soyez adepte de sports extrêmes ou que vous recherchiez des moments de détente et de reconnexion à la nature. Les Hautes Vosges sont faites pour vous.
+button: 
+  label: "Activités | Télécharger la brochure"
+  link: "docs/activites-labresse-fr.pdf"
+image: "images/trott.jpg"

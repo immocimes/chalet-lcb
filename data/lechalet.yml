@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onload-image-fade-in onload-content-fade-in"
+id: "first"
+title : "Le chalet"
+content: |
+  Un chalet rénové de <code>160m2</code> tout équipé, 3 chambres, 2 salles de bain, buanderie, <code>Jacuzzi</code> avec vue, garage, <code>2500m2</code> de terrain arboré. Situé à 2km des pistes La Bresse-Hohneck.
+  <br>
+  <br>
+  Activités à proximité <code>Ski</code>, <code>Randonnées</code>, <code>VTT</code>, <code>Trottinette tout terrain</code>, <code>Tyrolienne</code>, <code>Accrobranche</code>, <code>Pedalo</code>, <code>Baignade dans les lacs</code> ...
+button: 
+  label: "Voir nos disponibilités"
+  link: "https://www.beds24.com/booking2.php?ownerid=69944&propid=162238"
+image: "images/jacuzzi.jpeg"
