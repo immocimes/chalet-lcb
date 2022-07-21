@@ -4,17 +4,17 @@ style: "style1 medium onload-content-fade-in"
 items:
   # feature item loop
   - name : "Chambre 1"
-    content : "1 lit queen"
+    content : "1 lit queen (160)"
     style : "solid style2 major fa-bed"
 
   # feature item loop
   - name : "Chambre 2"
-    content : "1 lit double"
+    content : "1 lit double (140)"
     style : "solid style2 major fa-bed"
     
   # feature item loop
   - name : "Chambre 3"
-    content : "1 lit double, 2 lits simples"
+    content : "1 lit double (140), 2 lits simples (90)"
     style : "solid style2 major fa-bed"
     
   # feature item loop
@@ -95,7 +95,7 @@ items:
 
   # feature item loop
   - name : "Autres appareils"
-    content : "Appareil à Fondue et Raclette 10 personnes"
+    content : "Appareil à Fondue et raclette 10 personnes, grille pain, sèche cheveux"
     style : "fas style2 major fa-cauldron"
 
   # feature item loop
