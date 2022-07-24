@@ -10,4 +10,5 @@ content: |
 button: 
   label: "Voir nos disponibilités"
   link: "https://www.beds24.com/booking2.php?ownerid=69944&propid=162238"
+  icon: "icon fa-calendar-alt"
 image: "images/jacuzzi-1329.jpeg"
