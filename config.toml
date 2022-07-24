@@ -4,7 +4,8 @@
 
 title = "Location chalet - Les cimes blanches"
 theme = "hugo-story"
-
+copyright = 'IMMOCIMES ©'
+defaultContentLanguage = 'fr'
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
@@ -19,9 +20,10 @@ googleAnalytics = "G-3PTDF9WRWB"
 ## -----------------------------------------------
 
 [Params]
-  description = "Location - Chalet Les Cimes Blanches - Haute Vosges 88"
+  description = "Location de chalet dans les Hautes Vosges (88) | belles prestations | Les Cimes Blanches."
   logo = "images/logo-lcb-grey.png"
   favicon = true
+  keywords = "location chalet, location vosges, location la bresse, chalet vosges, vacances montagne, weekend montagne, weekend vosges, chalet jacuzzi, vosges spa, vosge jacuzzi"
 
 [Params.social]
   airbnb = "https://www.airbnb.fr/rooms/643284240513655945"
