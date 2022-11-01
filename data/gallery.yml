@@ -1,10 +1,10 @@
 title: "Le chalet"
 style: "style2 small lightbox onload-image-fade-in onload-content-fade-in"
 pictures:
-  - title: "Le chalet"
+  - title: "Chalet en hiver"
     content: ""
-    image: "images/gallery-lcb/fulls/chalet-haut.jpg"
-    thumb: "images/gallery-lcb/thumbs/chalet-haut.jpg"
+    image: "images/gallery-lcb/fulls/chalet-hiver.jpg"
+    thumb: "images/gallery-lcb/thumbs/chalet-hiver.jpg"
     button: "zoom"
   
   - title: "Jacuzzi"
@@ -13,10 +13,10 @@ pictures:
     thumb: "images/gallery-lcb/thumbs/jac-apero.jpg"
     button: "zoom"
 
-  - title: "Entrée de la propriété"
+  - title: "Le chalet"
     content: ""
-    image: "images/gallery-lcb/fulls/entree-propriete.jpg"
-    thumb: "images/gallery-lcb/thumbs/entree-propriete.jpg"
+    image: "images/gallery-lcb/fulls/chalet-haut.jpg"
+    thumb: "images/gallery-lcb/thumbs/chalet-haut.jpg"
     button: "zoom"
 
   - title: "Maison à insectes"
@@ -49,8 +49,8 @@ pictures:
     thumb: "images/gallery-lcb/thumbs/salon-jardin2.jpg"
     button: "zoom"
 
-  - title: "Chalet en hiver"
+  - title: "Entrée de la propriété"
     content: ""
-    image: "images/gallery-lcb/fulls/chalet-hiver.jpg"
-    thumb: "images/gallery-lcb/thumbs/chalet-hiver.jpg"
+    image: "images/gallery-lcb/fulls/entree-propriete.jpg"
+    thumb: "images/gallery-lcb/thumbs/entree-propriete.jpg"
     button: "zoom"
