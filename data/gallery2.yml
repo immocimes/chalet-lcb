@@ -55,13 +55,13 @@ pictures:
     thumb: "images/gallery-lcb/thumbs/chambre3_01.jpg"
     button: "zoom"
 
-  - title: "Chambre 3"
+  - title: "Chambre 4"
     content: ""
     image: "images/gallery-lcb/fulls/chambre3_02.jpg"
     thumb: "images/gallery-lcb/thumbs/chambre3_02.jpg"
     button: "zoom"
 
-  - title: "Vue - Chambre 3"
+  - title: "Vue - Chambre 4"
     content: ""
     image: "images/gallery-lcb/fulls/chambre3_vue1.jpg"
     thumb: "images/gallery-lcb/thumbs/chambre3_vue1.jpg"

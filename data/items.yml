@@ -3,17 +3,22 @@ content:
 style: "style1 medium onload-content-fade-in"
 items:
   # feature item loop
-  - name : "Chambre 1"
+  - name : "Chambre 1 | RDC"
+    content : "1 lit queen (160)"
+    style : "solid style2 major fa-bed"
+  
+  # feature item loop
+  - name : "Chambre 2 | 1er étage"
     content : "1 lit queen (160)"
     style : "solid style2 major fa-bed"
 
   # feature item loop
-  - name : "Chambre 2"
+  - name : "Chambre 3 | 1er étage"
     content : "1 lit double (140)"
     style : "solid style2 major fa-bed"
     
   # feature item loop
-  - name : "Chambre 3"
+  - name : "Chambre 4 | 1er étage"
     content : "1 lit double (140), 2 lits simples (90)"
     style : "solid style2 major fa-bed"
     
