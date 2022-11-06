@@ -13,6 +13,12 @@ pictures:
     thumb: "images/gallery-lcb/thumbs/jac-apero.jpg"
     button: "zoom"
 
+  - title: "Span & Champagne"
+    content: ""
+    image: "images/gallery-lcb/fulls/champ.jpg"
+    thumb: "images/gallery-lcb/thumbs/champ.jpg"
+    button: "zoom"
+
   - title: "Le chalet"
     content: ""
     image: "images/gallery-lcb/fulls/chalet-haut.jpg"
@@ -25,28 +31,10 @@ pictures:
     thumb: "images/gallery-lcb/thumbs/maison-insectes.jpg"
     button: "zoom"
 
-  - title: "Entrée du chalet"
-    content: ""
-    image: "images/gallery-lcb/fulls/chalet-coin-apero.jpg"
-    thumb: "images/gallery-lcb/thumbs/chalet-coin-apero.jpg"
-    button: "zoom"
-
-  - title: "Coin apéro"
-    content: ""
-    image: "images/gallery-lcb/fulls/coin-apero.jpg"
-    thumb: "images/gallery-lcb/thumbs/coin-apero.jpg"
-    button: "zoom"
-
   - title: "Jardin"
     content: ""
     image: "images/gallery-lcb/fulls/jardin.jpg"
     thumb: "images/gallery-lcb/thumbs/jardin.jpg"
-    button: "zoom"
-
-  - title: "Salon de jardin"
-    content: ""
-    image: "images/gallery-lcb/fulls/salon-jardin2.jpg"
-    thumb: "images/gallery-lcb/thumbs/salon-jardin2.jpg"
     button: "zoom"
 
   - title: "Entrée de la propriété"
