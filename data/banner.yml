@@ -8,6 +8,6 @@ content : |
 button:
   label : "Découvrir"
   link : "#first"
-#image : "images/banner-1702.jpg"
-image : "images/banner-neige-1.jpg"
+image : "images/banner-1702.jpg"
+#image : "images/banner-neige-1.jpg"
 logo : "images/logo-lcb-grey.png"
